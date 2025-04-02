@@ -1,0 +1,11 @@
+{
+    "id": "tasknote",
+    "name": "TaskNote",
+    "version": "0.1.0",
+    "minAppVersion": "0.15.0",
+    "description": "Treat any note with 'type: task' in frontmatter as a task with checkbox UI. Supports Dataview querying via `tasknote` codeblock.",
+    "author": "Jimmy Little",
+    "authorUrl": "https://github.com/jimmy-little/TaskNotes",
+    "main": "main.js"
+  }
+  
