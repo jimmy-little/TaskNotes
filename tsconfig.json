@@ -10,5 +10,5 @@
     "isolatedModules": true,
     "types": ["obsidian"]
   },
-  "include": ["main.ts", "settings.ts"]
+  "include": ["main.js", "settings.ts"]
 }
